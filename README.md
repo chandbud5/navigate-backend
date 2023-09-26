@@ -9,10 +9,16 @@
 
 Navigate is designed to foster meaningful connections and support between students and industry professionals. Whether you're a student looking to build your network, or a professional looking to give back, Navigate provides a platform to make it happen.
 
+### Artefacts
+- [PRD](https://drive.google.com/file/d/1vFwQoFOKdYbJjKoXgK9Gp107UFMgfppo/view)
+- [UX Wireframes](https://www.figma.com/file/K77byFYmQymbV6hpOxu0Kw/Navigate?node-id=0%3A1)
+- [Engineering Design Sketch](https://drive.google.com/file/d/1vGP1uLvdUkSVlmXEssPJ4kpEg448obqZ/view?usp=sharing)
+- [FrontEnd](https://github.com/chandbud5/navigate--frontend)
+
 ## Table of Contents
 1. [Demo](#demo)
 2. [Installation](#install)
-3. [Tech Stack](#tech)
+3. [Tech Stack](#technology-stack)
 4. [Authors](#author)
 5. [License](#license)
 
@@ -44,7 +50,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
 # Technology Stack
-
 - [Node JS](https://nodejs.dev/)
 - [Express JS](https://expressjs.com/)
 - [Mongoose](https://mongoosejs.com/)
